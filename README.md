@@ -1,2 +1,57 @@
-# hotel-booking-cancellation-analysis-excel-dashboard
-Interactive Excel dashboard analyzing hotel booking cancellations with pivot tables, slicers, and visual insights.
+# 🏨 Hotel Booking Cancellation Analysis (Excel Dashboard)
+
+This project analyzes hotel booking data using Microsoft Excel to identify patterns in booking cancellations. It includes an interactive dashboard built with pivot tables, slicers, and charts.
+
+
+
+## 📊 Features
+
+* KPI cards for Total Bookings and Cancellations
+* Year-wise filtering using slicers
+* Guest type analysis (Couple, Family, Single)
+* Hotel type comparison (City vs Resort)
+* Monthly booking and cancellation trends
+* Room status analysis (Desired vs Undesired)
+
+---
+
+## 🛠 Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Data Cleaning & Transformation
+
+---
+
+## 📁 Files Included
+
+* `hotel_bookings.xlsx` → Raw dataset
+* `dashboard.xlsx` → Final Excel dashboard
+* `README.md` → Project documentation
+
+---
+
+## 🎯 Objective
+
+To analyze hotel booking behavior and identify key factors contributing to cancellations, helping improve business decisions and reduce revenue loss.
+
+---
+
+## 📸 Dashboard Preview
+
+<img width="1542" height="693" alt="image" src="https://github.com/user-attachments/assets/05d99b2d-929d-42b8-9086-568c00c8ba8d" />
+
+
+## 🚀 Key Insights
+
+* Higher cancellations observed in city hotels
+* Couples have the highest booking and cancellation rate
+* Peak cancellations occur during summer months
+* Undesired room assignments lead to higher cancellations
+
+---
+
+## 👩‍💻 Author
+Sanskruti Gharjale
